@@ -125,13 +125,14 @@ The Power BI report contains four main pages:
 ### Dashboard Screenshots
 
 #### Overall Dashboard
-![Transaction & Fraud Analysis overall](overall_dashboard.png)
+![Transaction & Fraud Analysis overall]("D:\Pandas\potfolio project 2 transaction and fraud analysis\powerbi\overall_dashboard.png")
 #### Monthly Analysis
-![Transaction & Fraud Analysis overall](monthly_analysis.png)
+![Transaction & Fraud Analysis monthly]("D:\Pandas\potfolio project 2 transaction and fraud analysis\powerbi\monthly_analysis.png")
 #### Customer Analysis
-![Transaction & Fraud Analysis overall](customer_analysis.png)
+![Transaction & Fraud Analysis customer]("D:\Pandas\potfolio project 2 transaction and fraud analysis\powerbi\customer_analysis.png")
 #### Fraud Analysis
-![Transaction & Fraud Analysis overall](fraud_analysis.png)
+![Transaction & Fraud Analysis fraud]("D:\Pandas\potfolio project 2 transaction and fraud analysis\powerbi\fraud_analysis.png")
+
 **Power BI Dashboard:** `powerbi/transaction_fraud_dashboard.pbix`
 
 ## Business Recommendations
