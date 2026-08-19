@@ -73,7 +73,7 @@ transaction-fraud-analysis/
 │   └── fraud_analysis.png
 │
 ├── report/
-│   └── Transaction_Fraud_Analysis.pdf
+│   └── transaction_fraud_analysis.pdf
 │
 └── README.md
 ```
@@ -160,7 +160,7 @@ The detailed project report contains:
 * Project explanation
 * Technical notes and improvements
 
-**Report:** `report/Transaction_Fraud_Analysis.pdf`
+**Report:** `report/transaction_fraud_analysis.pdf`
 
 ## How to Use This Project
 
